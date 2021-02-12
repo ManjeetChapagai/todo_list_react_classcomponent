@@ -1,0 +1,43 @@
+h1 {
+  text-align: center;
+}
+.form {
+  text-align: center;
+}
+.btn {
+  float: right;
+}
+
+.todo {
+  margin-left: 4rem;
+  align-items: center;
+  justify-content: center;
+}
+
+p {
+  margin-left: 3rem;
+}
+.bt {
+  margin-bottom: 20;
+  padding: 30;
+  float: inline-end;
+  justify-content: center;
+}
+ul {
+  padding-right: 1;
+  align-items: center;
+}
+ul > div {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  text-align: center;
+}
+li {
+  list-style: none;
+  font-size: 20px;
+}
+.App {
+  background-color: wheat;
+  min-height: 100vh;
+}
